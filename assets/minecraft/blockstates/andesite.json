@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/andesite", "weight": 5 },
+            { "model": "block/variants/andesite/andesite_01", "weight": 4 },
+            { "model": "block/variants/andesite/andesite_02", "weight": 4 }
+        ]
+    }
+}
